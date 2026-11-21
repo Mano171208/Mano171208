@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Mano G 👋
 
-<!--
-**Mano171208/Mano171208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech (AI&ML) in 1st year student at Saveetha Engineering College. My ambition is to become a software engineer who builds practical and reliable applications that solve everyday problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Areas of Interest
+* Full-Stack Web Development
+* Artificial Intelligence & Machine Learning
+* Problem-Solving & Data Structures
+
+### 🛠️ Current Skills
+* **Languages:**  Python.
+* **Tools & Technologies:**  HTML, CSS
+* **Soft Skills:** Teamwork, Debugging, Technical Documentation
+
+### 🌱 Current Learning Goals
+* Build and document two complete projects over the next 6 months.
+* Strengthen my foundation in Data Structures and Algorithms.
+* Participate in upcoming hackathons and coding challenges.
+
+### 🚀 Featured Projects
+* **Task Management Application** – A simple task-tracking tool built to organize daily activities; contributed to core feature implementation and project documentation. *(Tech used: Python, Git)*
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:**[Mano](https://www.linkedin.com/in/mano-g-692713443/)
